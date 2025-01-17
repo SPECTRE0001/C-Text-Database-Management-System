@@ -1,0 +1,150 @@
+Super Mario Bros.,1985,NES,Super Mario,Y
+Mega Man,1987,NES,Mega Man,Y
+Mike Tyson's Punch-Out!!,1987,NES,Punch-Out,Y
+Super Mario Bros. 2,1988,NES,Super Mario,Y
+Super Mario Bros. 3,1988,NES,Super Mario,Y
+Mega Man 2,1989,NES,Mega Man,Y
+Super Mario Land,1989,GB,Super Mario,Y
+Tetris,1989,GB,Tetris,Y
+F-Zero,1990,SNES,F-Zero,Y
+Mega Man 3,1990,NES,Mega Man,Y
+Super Mario World,1990,SNES,Super Mario,Y
+Sonic the Hedgehog,1991,SG,Sonic,Y
+Kirby's Dream Land,1992,GB,Kirby,Y
+Mega Man 4,1992,NES,Mega Man,Y
+Mega Man 5,1992,NES,Mega Man,Y
+Sonic the Hedgehog 2,1992,SG,Sonic,Y
+Super Mario Land 2: 6 Golden Coins,1992,GB,Super Mario,Y
+Kirby's Adventure,1993,NES,Kirby,Y
+Mega Man 6,1993,NES,Mega Man,Y
+Mega Man X,1993,SNES,Mega Man,Y
+Sonic CD,1993,SCD,Sonic,Y
+Star Fox,1993,SNES,Star Fox,Y
+The Legend of Zelda: A Link to the Past,1993,SNES,The Legend of Zelda,Y
+Donkey Kong Country,1994,SNES,Donkey Kong,Y
+EarthBound,1994,SNES,EarthBound,Y
+Sonic & Knuckles,1994,SG,Sonic,Y
+Sonic the Hedgehog 3,1994,SG,Sonic,Y
+Super Metroid,1994,SNES,Metroid,Y
+Wario Land: Super Mario Land 3,1994,GB,Wario,Y
+Donkey Kong Country 2: Diddy Kong's Quest,1995,SNES,Donkey Kong,Y
+Kirby's Dream Land 2,1995,GB,Kirby,Y
+Mega Man 7,1995,SNES,Mega Man,Y
+Super Mario World 2: Yoshi's Island,1995,SNES,Yoshi,Y
+Kirby Super Star,1996,SNES,Kirby,Y
+Super Mario 64,1996,N64,Super Mario,Y
+Super Mario RPG: Legend of the Seven Stars ,1996,SNES,Mario RPG,Y
+Kirby's Dream Land 3,1997,SNES,Kirby,Y
+Banjo-Kazooie,1998,N64,Banjo-Kazooie,Y
+F-Zero X,1998,N64,F-Zero,Y
+The Legend of Zelda: Link's Awakening DX,1998,GB,The Legend of Zelda,Y
+The Legend of Zelda: Ocarina of Time,1998,N64,The Legend of Zelda,Y
+Super Smash Bros.,1999,N64,Super Smash Bros.,Y
+Kirby 64: The Crystal Shards,2000,N64,Kirby,Y
+Advance Wars,2001,GBA,Wars,Y
+Animal Crossing,2001,GCN,Animal Crossing,Y
+Luigi's Mansion,2001,GCN,Luigi's Mansion,Y
+Pikmin,2001,GCN,Pikmin,Y
+Sonic Adventure 2 Battle,2001,GCN,Sonic,Y
+Super Smash Bros. Melee,2001,GCN,Super Smash Bros.,Y
+Kirby: Nightmare in Dreamland,2002,GBA,Kirby,Y
+Metroid Fusion,2002,GBA,Metroid,Y
+Metroid Prime,2002,GCN,Metroid,Y
+Super Mario Sunshine,2002,GCN,Super Mario,Y
+The Legend of Zelda: Wind Waker,2002,GCN,The Legend of Zelda,Y
+F-Zero GX,2003,GCN,F-Zero,Y
+Kirby Air Ride,2003,GCN,Kirby,Y
+Mario Kart: Double Dash!!,2003,GCN,Mario Kart,Y
+Sonic Adventure DX,2003,GCN,Sonic,Y
+WarioWare Inc.: Mega Microgame$,2003,GBA,Wario,Y
+Kirby & the Amazing Mirror,2004,GBA,Kirby,Y
+Metroid Prime 2: Echoes,2004,GCN,Metroid,Y
+Metroid: Zero Mission,2004,GBA,Metroid,Y
+Pikmin 2,2004,GCN,Pikmin,Y
+The Legend of Zelda: The Minish Cap,2004,GBA,The Legend of Zelda,Y
+WarioWare: Touched!,2004,DS,Wario,Y
+Fire Emblem: Path of Radiance,2005,GCN,Fire Emblem,Y
+Kirby: Canvas Curse,2005,DS,Kirby,N
+Mario Kart DS,2005,DS,Mario Kart,Y
+Kirby: Squeak Squad,2006,DS,Kirby,Y
+Metroid Prime Hunters,2006,DS,Metroid,N
+New Super Mario Bros.,2006,DS,Super Mario,Y
+Tetris DS,2006,DS,Tetris,Y
+The Legend of Zelda: Twilight Princess,2006,Wii,The Legend of Zelda,Y
+WarioWare: Smooth Moves,2006,Wii,Wario,N
+Wii Sports,2006,Wii,Wii Sports,Y
+Fire Emblem: Radiant Dawn,2007,Wii,Fire Emblem,N
+Lego Star Wars: The Complete Saga,2007,Wii,Lego,Y
+Mario Party 8,2007,Wii,Mario Party,Y
+Metroid Prime 3: Corruption,2007,Wii,Metroid,Y
+Super Mario Galaxy,2007,Wii,Super Mario,Y
+The Legend of Zelda: Phantom Hourglass,2007,DS,The Legend of Zelda,Y
+Kirby Super Star Ultra,2008,DS,Kirby,Y
+Mario Kart Wii,2008,Wii,Mario Kart,Y
+Mega Man 9,2008,Wii,Mega Man,N
+Super Smash Bros. Brawl,2008,Wii,Super Smash Bros.,Y
+New Super Mario Bros. Wii,2009,Wii,Super Mario,Y
+Pokémon HeartGold and SoulSilver,2009,DS,Pokémon,Y
+Pokémon Platinum,2009,DS,Pokémon,Y
+Punch-Out!!,2009,Wii,Punch-Out,Y
+The Legend of Zelda: Spirit Tracks,2009,DS,The Legend of Zelda,Y
+Wii Sports Resort,2009,Wii,Wii Sports,Y
+Kirby's Epic Yarn,2010,Wii,Kirby,Y
+Mega Man 10,2010,Wii,Mega Man,N
+Metroid: Other M,2010,Wii,Metroid,N
+Sonic Colors,2010,Wii,Sonic,N
+Super Mario Galaxy 2,2010,Wii,Super Mario,Y
+Xenoblade Chronicles,2010,Wii,Xenoblade,N
+Kirby's Return to Dream Land,2011,Wii,Kirby,Y
+Mario Kart 7,2011,3DS,Mario Kart,Y
+Pokémon Black and White,2011,DS,Pokémon,Y
+Star Fox 64 3D,2011,3DS,Star Fox,Y
+Super Mario 3D Land,2011,3DS,Super Mario,Y
+The Legend of Zelda: Ocarina of Time 3D,2011,3DS,The Legend of Zelda,Y
+The Legend of Zelda: Skyward Sword,2011,Wii,The Legend of Zelda,Y
+Animal Crossing: New Leaf,2012,3DS,Animal Crossing,N
+Fire Emblem Awakening,2012,3DS,Fire Emblem,Y
+Kid Icarus Uprising,2012,3DS,Kid Icarus,Y
+Kirby's Dream Collection,2012,Wii,Kirby,Y
+New Super Mario Bros. 2,2012,3DS,Super Mario,Y
+New Super Mario Bros. U,2012,Wii U,Super Mario,Y
+Donkey Kong Country Returns 3D,2013,3DS,Donkey Kong,Y
+Pikmin 3,2013,Wii U,Pikmin,N
+Pokémon X and Y,2013,3DS,Pokémon,Y
+The Legend of Zelda: A Link Between Worlds,2013,3DS,The Legend of Zelda,Y
+The Legend of Zelda: Wind Waker HD,2013,Wii U,The Legend of Zelda,Y
+Captain Toad: Treasure Tracker,2014,Wii U,Super Mario,Y
+Donkey Kong Country: Tropical Freeze,2014,Wii U,Donkey Kong,Y
+Kirby: Triple Deluxe,2014,3DS,Kirby,Y
+Mario Kart 8,2014,Wii U,Mario Kart,Y
+Super Smash Bros. for 3DS,2014,3DS,Super Smash Bros.,Y
+Super Smash Bros. for Wii U,2014,Wii U,Super Smash Bros.,Y
+Kirby and the Rainbow Curse,2015,Wii U,Kirby,Y
+Splatoon,2015,Wii U,Splatoon,Y
+Super Mario Maker,2015,Wii U,Super Mario,Y
+The Legend of Zelda: Majora's Mask 3D,2015,3DS,The Legend of Zelda,Y
+Yoshi's Woolly World,2015,Wii U,Yoshi,Y
+Kirby: Planet Robobot,2016,3DS,Kirby,Y
+The Legend of Zelda: Twilight Princess HD,2016,Wii U,The Legend of Zelda,Y
+Mario Kart 8 Deluxe,2017,NS,Mario Kart,Y
+Metroid: Samus Returns,2017,3DS,Metroid,Y
+Sonic Mania,2017,NS,Sonic,Y
+Super Mario Odyssey,2017,NS,Super Mario,Y
+The Legend of Zelda: Breath of the Wild,2017,Wii U,The Legend of Zelda,Y
+Kirby Star Allies,2018,NS,Kirby,Y
+Mega Man 11,2018,NS,Mega Man,N
+Super Smash Bros. Ultimate,2018,NS,Super Smash Bros.,Y
+WarioWare Gold,2018,3DS,Wario,N
+Fire Emblem: Three Houses,2019,NS,Fire Emblem,N
+The Legend of Zelda: Link's Awakening,2019,NS,The Legend of Zelda,N
+Mario Party Superstars,2021,NS,Mario Party,Y
+Metroid Dread,2021,NS,Metroid,Y
+Super Mario 3D World + Bowser's Fury,2021,NS,Super Mario,Y
+Kirby and the Forgotten Land,2022,NS,Kirby,Y
+Lego Star Wars: The Skywalker Saga,2022,NS,Lego,N
+Pokémon Legends: Arceus,2022,NS,Pokémon,N
+Kirby Return to Dreamland Deluxe,2023,NS,Kirby,Y
+Super Mario Bros. Wonder,2023,NS,Super Mario,N
+The Legend of Zelda: Tears of the Kingdom,2023,NS,The Legend of Zelda,N
+The Legend of Zelda: Echoes of Wisdom,2024,NS,The Legend of Zelda,N
+Metroid Prime 4: Beyond,2025,NS,Metroid,N
