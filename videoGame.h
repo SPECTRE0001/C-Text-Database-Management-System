@@ -4,7 +4,7 @@ class videoGame {
 private:
     int number;
     std::string title;
-    int year;  // Changed from string to int
+    int year;
     std::string system;
     std::string series;
     bool played;
@@ -23,7 +23,7 @@ public:
     void print() const {
         std::cout << "Number: " << number
                   << ", Title: " << title
-                  << ", Year: " << year  // Now prints the year as int
+                  << ", Year: " << year 
                   << ", System: " << system
                   << ", Series: " << series
                   << ", Played: " << (played ? "Yes" : "No") << std::endl;
