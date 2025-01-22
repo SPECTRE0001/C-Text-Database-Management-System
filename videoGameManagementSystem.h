@@ -38,7 +38,7 @@ void loadDataFromTextFile(const std::string& filePath) {
 
             int year = std::stoi(yearStr);
 
-            bool played = (playedStr == "true");
+            bool played = (playedStr == "Y");
             games.emplace_back(number, title, year, system, series, played);
             number++;
         } else {
@@ -110,7 +110,7 @@ void updatePlayedStatus(int searchNumber, std::string& isPlayedStatus) {
         newPlayedStatus = true;
     }
     if (isPlayedStatus == "N" || isPlayedStatus == "n" || isPlayedStatus == "no" || isPlayedStatus == "No" || isPlayedStatus == "NO") {
-        newPlayedStatus = true;
+        newPlayedStatus = false;
     }
     else {
         std::cout << "Invalid input for played status.";
@@ -157,10 +157,9 @@ void gamesPlayed () {
         }
         totalGames++;
     }
-    std::cout << "Out of " << totalGames << " games, " << isPlayed << " games have been played and " << isNotPlayed << " games have not been played.";
+    std::cout << "Out of " << totalGames << " games, " << isPlayed << " games have been played and " << isNotPlayed << " games have not been played.\n";
     return;
 }
 };
 
 #endif
-
